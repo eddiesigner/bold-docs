@@ -1,0 +1,14 @@
+:root {
+  --vp-c-brand-1: #e86434;
+  --vp-c-brand-2: #c63a0b;
+  --vp-c-brand-3: #E04F1B;
+  --vp-c-brand-soft: var(--vp-c-indigo-soft);
+}
+
+.medium-zoom-overlay {
+  z-index: 999;
+}
+
+.medium-zoom-image {
+  z-index: 1000;
+}
