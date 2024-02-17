@@ -40,6 +40,7 @@ export default defineConfig({
           { text: 'Newsletter Page', link: '/core-features/newsletter-page' },
           { text: 'Authors Page', link: '/core-features/authors-page' },
           { text: 'Tags Page', link: '/core-features/tags-page' },
+          { text: 'Archive Page', link: '/core-features/archive-page' },
           { text: 'Theme Appearance', link: '/core-features/theme-appearance' },
           { text: 'Theme Translation', link: '/core-features/theme-translation' },
           { text: 'Comments', link: '/core-features/comments' },

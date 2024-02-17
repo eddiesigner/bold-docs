@@ -6,6 +6,9 @@ hero:
   name: "Bold"
   text: "Professional Theme for Ghost"
   tagline: Bold is designed to be minimal and customizable, allowing individuals to create a sleek and modern online presence.
+  image: 
+    src: /hero.png
+    alt: Bold
   actions:
     - theme: brand
       text: Get Started
