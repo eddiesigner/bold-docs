@@ -81,6 +81,5 @@ If you want to change any of these colors, you can do so directly in the Ghost A
 ```
 
 ::: info
-
 If you want to change the **accent color**, it's better to do it in the `Design and branding` section of the Ghost Admin, as that value takes precedence over the one defined in these styles.
 :::

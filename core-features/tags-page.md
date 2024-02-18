@@ -1,6 +1,6 @@
 # Tags Page
 
-On this page, you can quickly view all the tags. You can explore a live demo by clicking [this link](https://bold.eduardogomez.io/tags), and it appears as follows:
+On this page, you can quickly view all the tags. You can explore a live demo by clicking [this link](https://bold.eduardogomez.io/tags), and it looks like this:
 
 ![](https://res.cloudinary.com/edev/image/upload/v1708188034/bold/CleanShot_2024-02-17_at_17.39.36.jpg)
 
