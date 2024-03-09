@@ -2,7 +2,7 @@
 
 On this page, visitors to your publication will be able to find a list with all the posts ordered chronologically and grouped by year. You can explore a live demo by clicking [this link](https://bold.eduardogomez.io/archive), and it looks like this:
 
-![](https://res.cloudinary.com/edev/image/upload/v1708251680/bold/CleanShot_2024-02-18_at_11.19.43.jpg)
+![](https://res.cloudinary.com/edev/image/upload/v1710002292/bold/CleanShot_2024-03-09_at_17.37.12.jpg)
 
 ## Enable Archive Page
 
