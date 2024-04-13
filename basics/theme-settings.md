@@ -96,25 +96,25 @@ Bold offers four different layouts that you can use to customize the appearance 
 
 In this layout, the publication cover is displayed on one half of the screen, while the other half shows the title, the publication's tagline, and the call to action. This is the default layout.
 
-![](https://res.cloudinary.com/edev/image/upload/v1708277186/bold/hero-1.jpg)
+![](https://res.cloudinary.com/edev/image/upload/v1713029808/bold/hero-1.jpg)
 
 #### Large background
 
 In this layout, the publication cover is displayed in fullscreen, while the title, the publication's tagline, and the call to action are shown on top of it.
 
-![](https://res.cloudinary.com/edev/image/upload/v1708277187/bold/hero-2.jpg)
+![](https://res.cloudinary.com/edev/image/upload/v1713029808/bold/hero-2.jpg)
 
 #### Side by side
 
 This layout is similar to the first one; however, the order is inverted, and the publication cover is smaller with slightly rounded corners.
 
-![](https://res.cloudinary.com/edev/image/upload/v1708277187/bold/hero-3.jpg)
+![](https://res.cloudinary.com/edev/image/upload/v1713029808/bold/hero-3.jpg)
 
 #### Typographic and center aligned
 
 This is a slightly more conservative layout in which the content of the section is centered. The publication cover is displayed in a smaller circular form, and the font size of the title is larger.
 
-![](https://res.cloudinary.com/edev/image/upload/v1708277188/bold/hero-4.jpg)
+![](https://res.cloudinary.com/edev/image/upload/v1713029809/bold/hero-4.jpg)
 
 You can select the layout you desire to use in the setting `Header section layout`, as shown in the following screenshot:
 
