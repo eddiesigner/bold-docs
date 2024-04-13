@@ -13,6 +13,7 @@
 Modified files:
 
 * package.json
+* README.md
 * src/sass/components/auth/_auth.scss
 * src/sass/components/post/_post-content.scss
 ````
