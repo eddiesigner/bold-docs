@@ -1,6 +1,6 @@
 # Changelog
 
-## v.1.0.1
+## v1.0.1
 
 > Released on 15/04/2024
 
