@@ -8,15 +8,17 @@ On this page, you can quickly view all the tags. You can explore a live demo by 
 
 To enable this page please follow these steps:
 
-1. In the Ghost Admin head to `Pages` and click on `New page`
+1. Unzip the theme file (`bold.zip`) and upload the `routes.yaml` file in the Ghost Admin by heading to `Settings` --> `Labs` --> `Beta features` --> `Routes`
 
-2. Give it a title (e.g. _Tags_)
+2. Head to `Pages` and click on `New page`
+
+3. Give it a title (e.g. _Tags_)
 
 ::: warning
 If you decide to use another title for this page it is important that you manually change the **Page URL** in the page settings so that the value is `tags`, otherwise it will not work.
 :::
 
-3. Publish the page and you're done!
+4. Publish the page and you're done!
 
 ::: tip
 You do not need to add content to this page as it is automatically generated.
