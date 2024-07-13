@@ -4,7 +4,7 @@
 
 > Released on 15/07/2024
 
-* Fixed an issue where the signup and signin pages didn't redirect to the home page after authenticating the user
+* Fixed an issue where the signup, signin and newsletter pages didn't redirect to the home page after authenticating the user
 * Fixed an issue where the close button in announcement bar had a wrong position
 * Fixed an issue where there was no space between featured post cards when they were together
 * Caption text in content cards is now centered
@@ -20,13 +20,13 @@ New files:
 
 Modified files:
 
-* .gitignore
-* package.json
+* members/newsletter.hbs
 * members/signin.hbs
 * members/signup.hbs
+* package.json
 * src/docker-compose.yml
-* src/package.json
 * src/package-lock.json
+* src/package.json
 * src/sass/components/general/_post-card.scss
 * src/sass/components/header/_announcement-bar.scss
 * src/sass/components/post/_post-content.scss
