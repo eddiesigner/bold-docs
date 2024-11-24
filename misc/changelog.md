@@ -1,5 +1,56 @@
 # Changelog
 
+## v1.2.0
+
+> Released on 25/11/2024
+
+- It is now possible to display custom content on the [Membership page](https://bold.eduardogomez.io/membership/), to do so simply add content to the page directly in the Ghost Editor and this will be then displayed below the plan tiers (useful for FAQs, promotions, etc.)
+- The signup, login and newsletter pages display the title and description defined in Ghost Admin if available, otherwise they display the current text provided by the theme
+- Yearly plans are now displayed by default on the Membership page
+- Members are now redirected to the Membership page after confirming their registration via the Sign Up page
+- Paid members are now redirected to the Home page page after confirming their registration via the Sign Up page
+- Added a button on the Account page so members can edit their account details
+- The Announcement bar now displays at the top of the page instead of below the navigation bar, and fixed an issue where the bar would display in the wrong position under certain circumstances
+- Added Threads icon
+- Fixed an issue where success and error messages were not displayed after confirming via email under certain circumstances
+- Fixed an issue where the wrong icon was displayed for the logout button
+- Fixed an issue where the currency symbol and plan were not displayed in the free tier of the Membership page
+- Fixed an issue where some submenu text would wrap to a second line
+- Updated Docker image (development only)
+- Bump version number
+
+````
+New files:
+
++ src/sass/components/membership/_membership-content.scss
+
+Modified files:
+
+*  assets/images/icons.svg
+*  default.hbs
+*  locales/en.json
+*  locales/es.json
+*  members/account.hbs
+*  members/membership.hbs
+*  members/newsletter.hbs
+*  members/signin.hbs
+*  members/signup.hbs
+*  package.json
+*  partials/header.hbs
+*  src/docker-compose.yml
+*  src/js/app.js
+*  src/sass/common/_global.scss
+*  src/sass/components/account/_account-header.scss
+*  src/sass/components/auth/_auth-form.scss
+*  src/sass/components/header/_announcement-bar.scss
+*  src/sass/components/header/_mobile-menu.scss
+*  src/sass/components/header/_submenu.scss
+*  src/sass/components/membership/_membership-content.scss
+*  src/sass/membership.scss
+*  tags.hbs
+````
+
+
 ## v1.1.0
 
 > Released on 15/07/2024
