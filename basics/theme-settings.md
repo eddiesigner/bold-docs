@@ -26,6 +26,20 @@ By default, Bold uses the `Clash Display` font for titles and the `General Sans`
 The font files are included in the theme locally, so they will be hosted on your server without the need to load them from external services such as Google Fonts, ensuring that your site complies with the General Data Protection Regulation.
 :::
 
+#### Custom Fonts
+
+As of version 1.3.0 of the theme, support for [custom fonts](https://ghost.org/changelog/custom-fonts/) has been added, this means that it is now possible to replace the default fonts of the theme with the fonts that Ghost offers natively. This allows publishers to have more control over their branding and have a wider range of options to customize their publication.
+
+This new option can be found in the design **Brand settings** as shown below:
+
+![](https://res.cloudinary.com/edev/image/upload/v1738502808/bold/odnsgef6pjumlo8ikvao.png)
+
+If you want to return to the default fonts, simply select the **Theme default** option in the corresponding field.
+
+:::info
+This option is only available if you're using Ghost 5.101.0 or later and Bold 1.3.0 or later.
+:::
+
 ### Navigation Bar Style
 
 Bold offers three different styles or modes for the navigation bar that appears at the top of the page: Floating, Normal, and Sticky.

@@ -1,5 +1,39 @@
 # Changelog
 
+## v1.3.0
+
+> Released on 03/02/2025
+
+* Added support for [custom fonts](/basics/theme-settings.html#custom-fonts)
+* Fixed a bug where the banner title displayed on posts where you don't have access could not be translated
+* Fixed an issue where the price of a subscription plan had a wrong format under certain circumstances
+* Fixed a bug where the logo image width could stretch too far on mobile devices
+* Fixed a bug in membership tier cards where the checkmark icons could become smaller if the text was longer
+* Reduced excessive spacing between the title and posts in the recommended posts section on a post page
+* Updated Docker image (development only)
+* Bump version number
+
+````
+Modified files:
+
+* default.hbs
+* members/account.hbs
+* package.json
+* partials/post-paywall.hbs
+* src/docker-compose.yml
+* src/sass/common/_global.scss
+* src/sass/components/account/_account-subscription.scss
+* src/sass/components/archive/_archive-entry.scss
+* src/sass/components/general/_forms.scss
+* src/sass/components/general/_logo.scss
+* src/sass/components/membership/_plan-switcher.scss
+* src/sass/components/membership/_tier.scss
+* src/sass/components/post/_post-author.scss
+* src/sass/components/post/_post-content.scss
+* src/sass/components/post/_related-posts.scss
+* src/sass/components/post/_section-title.scss
+````
+
 ## v1.2.0
 
 > Released on 25/11/2024
