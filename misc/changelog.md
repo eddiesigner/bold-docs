@@ -1,5 +1,24 @@
 # Changelog
 
+## v1.4.0
+
+> Released on 31/05/2025
+
+* Added support for [more staff social links](https://ghost.org/changelog/social-links/)
+* Added Bluesky and Mastodon icons
+* Updated Docker image (development only)
+* Bump version number
+
+````
+Modified files:
+
+* assets/images/icons.svg
+* author.hbs
+* package.json
+* src/docker-compose.yml
+* src/sass/components/general/_generic-header.scss
+````
+
 ## v1.3.0
 
 > Released on 03/02/2025
