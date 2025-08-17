@@ -1,5 +1,25 @@
 # Changelog
 
+## v1.5.0
+> Released on 18/08/2025
+
+* **Ghost 6 support** 🎉
+* Added support for more social links in Authors page
+* Updated Docker image (development only)
+* Bump version number
+
+````
+Modified files:
+
+* README.md
+* authors.hbs
+* members/membership.hbs
+* package.json
+* src/docker-compose.yml
+* src/sass/components/authors/_author-card.scss
+* tags.hbs
+````
+
 ## v1.4.0
 
 > Released on 31/05/2025
